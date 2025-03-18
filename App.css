@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
