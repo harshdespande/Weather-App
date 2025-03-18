@@ -13,6 +13,12 @@ A **React.js-based Weather App** that fetches and displays real-time weather dat
   ✅ Dynamic UI updates with CSS styling  
 
 ## 📂 Setup Instructions 
+## 🚀 Create and Set Up the React App 
+    ```sh
+       npx create-react-app weather-app
+       cd weather-app
+       npm install axios
+
 ## 🌐 Setup OpenWeather API Key  
 
 To fetch real-time weather data, you need to obtain and add an **OpenWeather API key** to your project.  
